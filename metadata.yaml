@@ -1,0 +1,38 @@
+_repo: Wolfville_3732
+creator:
+  author:
+    agent_name: Lewis, Alfred Henry
+    alias: Quin, Dan
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '1257'
+    url: http://www.gutenberg.org/2009/agents/1257
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+description: The Old Cattleman has many tales to tell of the days when the Wild West
+  was truly wild, having spent his entire life in Wolfville--a time when desperadoes
+  and mule-skinners, outlaws and lawmen, runaways and rawhiders, ran the town.
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Humorous stories, American'
+- !lcsh 'Arizona -- Social life and customs -- Fiction'
+- !lcc 'PS'
+tableOfContents: Wolfville's first funeral -- The Stinging Lizard -- The story of
+  Wilkins -- The washwoman's war -- Enright's pard, Jim Willis -- Tucson Jennie's
+  heart -- Tucson Jennie's jealousy -- The man from Red Dog -- Cherokee Hall -- Texas
+  Thompson's "election" -- A Wolfville foundling -- The man from Yellowhouse -- Jacks
+  up on eights -- The rival dance-halls -- Slim Jim's sister -- Jaybird Bob's joke
+  -- Boggs's experience -- Dawson & Rudd, partners -- Mace Bowman, sheriff -- A Wolfville
+  Thanksgiving -- Bill Hoskins's coon -- Old Sam Enright's "romance" -- Piñon Bill's
+  bluff -- Crawfish Jim.
+title: Wolfville
+url: http://www.gutenberg.org/ebooks/3732
