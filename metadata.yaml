@@ -1,5 +1,5 @@
 _repo: Wolfville_3732
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,6 +32,7 @@ subjects:
 - !lcsh 'Humorous stories, American'
 - !lcsh 'Arizona -- Social life and customs -- Fiction'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: Wolfville's first funeral -- The Stinging Lizard -- The story of
   Wilkins -- The washwoman's war -- Enright's pard, Jim Willis -- Tucson Jennie's
   heart -- Tucson Jennie's jealousy -- The man from Red Dog -- Cherokee Hall -- Texas
